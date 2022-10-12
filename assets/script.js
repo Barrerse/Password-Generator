@@ -9,8 +9,15 @@ function generatePassword() {
   var possibleArray = [];
 
   charInput = prompt ("How many characters do you want your password to be? Enter a number between 8 and 128");
-
-
+  if (charInput < 8 || carInput > 128){
+    return "Invalid entry. Enter a number between 8 and 128.";
+  }
+  else if (isNaN(charInput)){
+      charInput = promp("A number entry was not detected. Enter a number between 8 and 128");
+    }
+  else {
+    alert("Your generated password will be "+charInput+" characters long.");
+  }
 
 }
 
@@ -29,3 +36,4 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
