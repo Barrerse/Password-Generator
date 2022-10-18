@@ -42,3 +42,13 @@ Created an algorithim using the Javascript .js file, following the acceptance cr
 >WHEN the password is generated
 
 >THEN the password is either displayed in an alert or written to the page
+
+
+## Credits
+
+All credits go to the [Univertisy of Miami Bootcamp](https://bootcamp.miami.edu/) for developing this homework module. 
+
+## Link to Website
+
+You can see the website [here](https://barrerse.github.io/My-Portfolio/)
+
