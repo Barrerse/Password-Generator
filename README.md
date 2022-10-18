@@ -52,3 +52,6 @@ All credits go to the [Univertisy of Miami Bootcamp](https://bootcamp.miami.edu/
 
 You can see the website [here](https://barrerse.github.io/My-Portfolio/)
 
+
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/108836644/196315427-8e6e0868-8d98-4f64-ac24-a50095d6caba.png)
+
